@@ -10,7 +10,7 @@ Integrantes:
 
 - Sergio Romero Plasencia
 
-Fecha: 022/11/2026
+Fecha: 22/11/2026
 
 Número de laboratorio: 5
 
